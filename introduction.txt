@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Zaineb Marzaq. I’m currently enrolled in the ALX pathway Program. I'm passionate about using technology to solve real-world problems, especially in healthcare. 
+
+I enjoy learning Git, GitHub, and building real solutions with code. I believe version control is a critical skill in my developer journey.
