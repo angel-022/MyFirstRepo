@@ -1,1 +1,1 @@
-I’ve learned how to use Git branches, make pull requests, and collaborate on GitHub. This has helped me understand real-world workflows.
+What I have learned from this course is I’ve learned how to use Git branches, make pull requests, and collaborate on GitHub. This has helped me understand real-world workflows.
